@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'Am as a student at SMKN 1 Subang | Sofware Engineer
+I'Am as a student at SMKN 1 Subang Jurusan RPL(Rekayasa Perangkat Lunak)
+-----------------------------------------------------------------------------------------------
+Halo! Saya seorang pelajar SMK jurusan RPL yang sangat tertarik dengan dunia teknologi, khususnya software development. Saya suka membuat aplikasi website dan desktop, dan sekarang saya sedang asyik belajar tentang mobile development.Dan saya antusias dalam mempelajari hal baru, Senang jika bisa berbagi pengetahuan dan berkolaborasi dalam proyek-proyek menarik.
+
+
+
 
 
 ## 🌐 Socials:
